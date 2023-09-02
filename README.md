@@ -1,2 +1,2 @@
 # Python
- Ex> de inicio ao Proficional
+ Ex> Exercicios do completo inicio ao Proficional!
