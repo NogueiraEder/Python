@@ -1,0 +1,14 @@
+Ana;22
+Amanda;43
+Amariudo;55
+Barbara;42
+Joao;19
+mario;34
+eder;87
+eder;75
+abbaco;22
+martins;55
+antonio;23
+margarida;41
+mario;78
+Geisa;99
